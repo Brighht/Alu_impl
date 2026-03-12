@@ -44,6 +44,8 @@ end entity;
 ## Simulation & Testing
 
 **Simulation Tool:** ModelSim
+<img width="1496" height="1102" alt="Screenshot From 2026-03-12 00-22-04" src="https://github.com/user-attachments/assets/1e627800-4844-4dbc-975b-9e1b7b3716a4" />
+
 
 +(2^n-1 - 1)  to -(2^n-1)
 
